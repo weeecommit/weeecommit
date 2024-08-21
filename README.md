@@ -6,6 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- ### Play the Dino Game!
+
+[![Dino Game](https://img.shields.io/badge/Dino-Game-green)](https://trex-runner.com/)
+
+
 <!---
 weeecommit/weeecommit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
